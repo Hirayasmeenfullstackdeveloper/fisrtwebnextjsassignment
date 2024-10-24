@@ -12,7 +12,7 @@ export default function Home(){
          <li> <Link  href="/service">Service </Link></li>
     </ul>
    </nav>
-   <h1 className={styles.title}>This is Home Page</h1>
+   <h1 className={styles.title}>This is My Home Page</h1>
   </div>
   )
 };
